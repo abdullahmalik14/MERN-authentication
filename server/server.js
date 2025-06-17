@@ -13,7 +13,7 @@ connectDB();
 
 const allowedOrigins = [
   "http://localhost:5173",
-  "https://mern-auth-client-seven.vercel.app",
+  "https://mern-authentication-r6a7.vercel.app",
 ];
 
 app.use(express.json());
